@@ -33,4 +33,20 @@ First download the data using "scrape_cryptovoxels.ipynb" then
 ## Analysis
 See `analysis.ipynb` for full analysis - some findings below:
 
+![1](https://i.imgur.com/Vfyctkr.png)
 
+![2](https://imgur.com/X41rVHx.png)
+
+![3](https://imgur.com/VWbooPQ.png)
+
+![4](https://imgur.com/3wJgjkg.png)
+
+![5](https://imgur.com/CfE1HWg.png)
+
+![6](https://imgur.com/eVYkI5E.png)
+
+![7](https://imgur.com/PNicCgt.png)
+
+## Contact
+Want more analysis, reach out to me on Twitter :)
+> `https://twitter.com/alxcnwy`
