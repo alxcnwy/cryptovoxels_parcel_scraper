@@ -42,7 +42,7 @@ Questions answered include:
 * which neighbourhood has the highest build heights on average?
 * how do visits relate to parcel area?
 * how do visits relate to the order in which parcels were minted?
-* what are teh top 5 plots in each neighbourhood ranked on visits?
+* what are the top 5 plots in each neighbourhood ranked on visits?
 * what are the top 5 most popular streets per neighbourhood?
 
 See `analysis.ipynb` for full analysis - some findings below:
