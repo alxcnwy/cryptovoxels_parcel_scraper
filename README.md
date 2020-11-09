@@ -1,5 +1,7 @@
-# Cryptovoxels parcel data scraper
-Download parcel data for cryptovoxel plots.
+# Cryptovoxels Scraper & Analysis
+
+## Scraper
+Downloads parcel data for cryptovoxel plots.
 
 For example, here is the data for my plot ("alex's bunker") as at 2020/11/08:
 > https://www.cryptovoxels.com/parcels/1041
@@ -20,4 +22,8 @@ For example, here is the data for my plot ("alex's bunker") as at 2020/11/08:
 }
 ```
 
-See `analysis.ipynb` for charts.
+First download the data using "scrape_cryptovoxels.ipynb" then 
+
+## Analysis
+See `analysis.ipynb` for full analysis.
+
