@@ -20,4 +20,4 @@ For example, here is the data for my plot ("alex's bunker") as at 2020/11/08:
 }
 ```
 
-See analysis.ipynb
+See `analysis.ipynb` for charts.
