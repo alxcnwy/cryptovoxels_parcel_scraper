@@ -1,5 +1,11 @@
 # Cryptovoxels Scraper & Analysis
 
+This repo contains 2 python Jupyter notebooks:
+
+1. `scrape_cryptovoxels.ipynb` for downloading cryptovoxels.com parcel data
+
+2. `analysis.ipynb` for compiling, parsing and analyzing the scraped parcel data
+
 ## Scraper
 Downloads parcel data for cryptovoxel plots.
 
@@ -25,5 +31,6 @@ For example, here is the data for my plot ("alex's bunker") as at 2020/11/08:
 First download the data using "scrape_cryptovoxels.ipynb" then 
 
 ## Analysis
-See `analysis.ipynb` for full analysis.
+See `analysis.ipynb` for full analysis - some findings below:
+
 
