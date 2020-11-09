@@ -31,6 +31,20 @@ For example, here is the data for my plot ("alex's bunker") as at 2020/11/08:
 First download the data using "scrape_cryptovoxels.ipynb" then 
 
 ## Analysis
+
+
+Questions answered include:
+
+* how many plots are there per neighbourhood?
+* what are the most popular neighbourhoods ranked on visits?
+* what are the most popular streets ranked on visits?
+* which neighbourhood has the largest parcels on average?
+* which neighbourhood has the highest build heights on average?
+* how do visits relate to parcel area?
+* how do visits relate to the order in which parcels were minted?
+* what are teh top 5 plots in each neighbourhood ranked on visits?
+* what are the top 5 most popular streets per neighbourhood?
+
 See `analysis.ipynb` for full analysis - some findings below:
 
 ![1](https://i.imgur.com/Vfyctkr.png)
