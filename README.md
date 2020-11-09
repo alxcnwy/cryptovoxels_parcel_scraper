@@ -47,7 +47,7 @@ Questions answered include:
 
 See `analysis.ipynb` for full analysis - some findings below:
 
-![1](https://i.imgur.com/Vfyctkr.png)
+![1](https://imgur.com/qwJixpw.png)
 
 ![2](https://imgur.com/X41rVHx.png)
 
